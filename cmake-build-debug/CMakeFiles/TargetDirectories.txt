@@ -1,0 +1,5 @@
+/home/eralife/Projects/Simple_Video_Player/cmake-build-debug/CMakeFiles/SMP.dir
+/home/eralife/Projects/Simple_Video_Player/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eralife/Projects/Simple_Video_Player/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eralife/Projects/Simple_Video_Player/cmake-build-debug/CMakeFiles/SMP_autogen_timestamp_deps.dir
+/home/eralife/Projects/Simple_Video_Player/cmake-build-debug/CMakeFiles/SMP_autogen.dir

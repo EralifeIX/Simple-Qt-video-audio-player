@@ -1,0 +1,608 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "SMP"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"set_property",
+			"find_dependency",
+			"_qt_internal_find_third_party_dependencies",
+			"_qt_internal_find_qt_dependencies",
+			"target_link_libraries",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"/usr/lib64/cmake/Qt6MultimediaWidgets/Qt6MultimediaWidgetsVersionlessTargets.cmake",
+			"/usr/lib64/cmake/Qt6MultimediaWidgets/Qt6MultimediaWidgetsConfig.cmake",
+			"/usr/lib64/cmake/Qt6/Qt6Config.cmake",
+			"/usr/lib64/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake",
+			"/usr/lib64/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
+			"/usr/lib64/cmake/Qt6Multimedia/Qt6MultimediaVersionlessTargets.cmake",
+			"/usr/lib64/cmake/Qt6Multimedia/Qt6MultimediaConfig.cmake",
+			"/usr/lib64/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake",
+			"/usr/lib64/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"/var/lib/snapd/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindOpenGL.cmake",
+			"/usr/lib64/cmake/Qt6/FindWrapOpenGL.cmake",
+			"/var/lib/snapd/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+			"/usr/lib64/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"/usr/lib64/cmake/Qt6Gui/Qt6GuiDependencies.cmake",
+			"/usr/lib64/cmake/Qt6Network/Qt6NetworkVersionlessTargets.cmake",
+			"/usr/lib64/cmake/Qt6Network/Qt6NetworkConfig.cmake",
+			"/usr/lib64/cmake/Qt6Multimedia/Qt6MultimediaDependencies.cmake",
+			"/usr/lib64/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake",
+			"/usr/lib64/cmake/Qt6Core/Qt6CoreConfig.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"file" : 3,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 179,
+				"parent" : 3
+			},
+			{
+				"file" : 2,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 70,
+				"parent" : 5
+			},
+			{
+				"file" : 1,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 70,
+				"parent" : 7
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 179,
+				"parent" : 3
+			},
+			{
+				"file" : 5,
+				"parent" : 9
+			},
+			{
+				"command" : 2,
+				"file" : 5,
+				"line" : 70,
+				"parent" : 10
+			},
+			{
+				"file" : 4,
+				"parent" : 11
+			},
+			{
+				"command" : 1,
+				"file" : 4,
+				"line" : 70,
+				"parent" : 12
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 179,
+				"parent" : 3
+			},
+			{
+				"file" : 7,
+				"parent" : 14
+			},
+			{
+				"command" : 2,
+				"file" : 7,
+				"line" : 70,
+				"parent" : 15
+			},
+			{
+				"file" : 6,
+				"parent" : 16
+			},
+			{
+				"command" : 1,
+				"file" : 6,
+				"line" : 70,
+				"parent" : 17
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 179,
+				"parent" : 3
+			},
+			{
+				"file" : 9,
+				"parent" : 19
+			},
+			{
+				"command" : 2,
+				"file" : 9,
+				"line" : 70,
+				"parent" : 20
+			},
+			{
+				"file" : 8,
+				"parent" : 21
+			},
+			{
+				"command" : 1,
+				"file" : 8,
+				"line" : 70,
+				"parent" : 22
+			},
+			{
+				"command" : 2,
+				"file" : 9,
+				"line" : 53,
+				"parent" : 20
+			},
+			{
+				"file" : 14,
+				"parent" : 24
+			},
+			{
+				"command" : 6,
+				"file" : 14,
+				"line" : 33,
+				"parent" : 25
+			},
+			{
+				"command" : 5,
+				"file" : 13,
+				"line" : 36,
+				"parent" : 26
+			},
+			{
+				"command" : 3,
+				"file" : 12,
+				"line" : 76,
+				"parent" : 27
+			},
+			{
+				"file" : 11,
+				"parent" : 28
+			},
+			{
+				"command" : 3,
+				"file" : 11,
+				"line" : 13,
+				"parent" : 29
+			},
+			{
+				"file" : 10,
+				"parent" : 30
+			},
+			{
+				"command" : 4,
+				"file" : 10,
+				"line" : 712,
+				"parent" : 31
+			},
+			{
+				"command" : 1,
+				"file" : 10,
+				"line" : 710,
+				"parent" : 31
+			},
+			{
+				"command" : 2,
+				"file" : 7,
+				"line" : 53,
+				"parent" : 15
+			},
+			{
+				"file" : 17,
+				"parent" : 34
+			},
+			{
+				"command" : 7,
+				"file" : 17,
+				"line" : 42,
+				"parent" : 35
+			},
+			{
+				"command" : 5,
+				"file" : 13,
+				"line" : 111,
+				"parent" : 36
+			},
+			{
+				"command" : 3,
+				"file" : 12,
+				"line" : 76,
+				"parent" : 37
+			},
+			{
+				"file" : 16,
+				"parent" : 38
+			},
+			{
+				"command" : 2,
+				"file" : 16,
+				"line" : 70,
+				"parent" : 39
+			},
+			{
+				"file" : 15,
+				"parent" : 40
+			},
+			{
+				"command" : 1,
+				"file" : 15,
+				"line" : 70,
+				"parent" : 41
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 179,
+				"parent" : 3
+			},
+			{
+				"file" : 19,
+				"parent" : 43
+			},
+			{
+				"command" : 2,
+				"file" : 19,
+				"line" : 72,
+				"parent" : 44
+			},
+			{
+				"file" : 18,
+				"parent" : 45
+			},
+			{
+				"command" : 1,
+				"file" : 18,
+				"line" : 70,
+				"parent" : 46
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++20 -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 48,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "QT_MULTIMEDIAWIDGETS_LIB"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "QT_MULTIMEDIA_LIB"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "QT_WIDGETS_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 49,
+					"path" : "/home/eralife/Projects/Simple_Video_Player/include"
+				},
+				{
+					"backtrace" : 0,
+					"isSystem" : true,
+					"path" : "/home/eralife/Projects/Simple_Video_Player/cmake-build-debug/SMP_autogen/include"
+				},
+				{
+					"backtrace" : 48,
+					"isSystem" : true,
+					"path" : "/usr/include/qt6/QtCore"
+				},
+				{
+					"backtrace" : 48,
+					"isSystem" : true,
+					"path" : "/usr/include/qt6"
+				},
+				{
+					"backtrace" : 48,
+					"isSystem" : true,
+					"path" : "/usr/lib64/qt6/mkspecs/linux-g++"
+				},
+				{
+					"backtrace" : 48,
+					"isSystem" : true,
+					"path" : "/usr/include/qt6/QtGui"
+				},
+				{
+					"backtrace" : 48,
+					"isSystem" : true,
+					"path" : "/usr/include/qt6/QtWidgets"
+				},
+				{
+					"backtrace" : 48,
+					"isSystem" : true,
+					"path" : "/usr/include/qt6/QtMultimedia"
+				},
+				{
+					"backtrace" : 48,
+					"isSystem" : true,
+					"path" : "/usr/include/qt6/QtNetwork"
+				},
+				{
+					"backtrace" : 48,
+					"isSystem" : true,
+					"path" : "/usr/include/qt6/QtMultimediaWidgets"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					48,
+					48
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				9
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "SMP_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "SMP_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "SMP::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "/usr/lib64/libQt6MultimediaWidgets.so.6.7.2",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "/usr/lib64/libQt6Widgets.so.6.7.2",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib64/libQt6Multimedia.so.6.7.2",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "/usr/lib64/libQt6Gui.so.6.7.2",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "/usr/lib64/libGLX.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 33,
+				"fragment" : "/usr/lib64/libOpenGL.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 42,
+				"fragment" : "/usr/lib64/libQt6Network.so.6.7.2",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 47,
+				"fragment" : "/usr/lib64/libQt6Core.so.6.7.2",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "SMP",
+	"nameOnDisk" : "SMP",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				9
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				10
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				11
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/SMP_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/playerwidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/videoplayer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/videowidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/playerwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/videoplayer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/videowidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "include/mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/SMP_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/SMP_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "EXECUTABLE"
+}

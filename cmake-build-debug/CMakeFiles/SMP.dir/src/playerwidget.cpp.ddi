@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/SMP.dir/src/playerwidget.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

@@ -1,0 +1,11 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/SMP.dir/main.cpp.o: dyndep
+
+build CMakeFiles/SMP.dir/src/playerwidget.cpp.o: dyndep
+
+build CMakeFiles/SMP.dir/src/videoplayer.cpp.o: dyndep
+
+build CMakeFiles/SMP.dir/src/videowidget.cpp.o: dyndep
+
+build CMakeFiles/SMP.dir/src/mainwindow.cpp.o: dyndep
+

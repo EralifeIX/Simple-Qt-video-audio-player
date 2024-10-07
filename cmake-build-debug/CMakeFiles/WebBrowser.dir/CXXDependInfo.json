@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/eralife/Projects/Simple_Video_Player/cmake-build-debug",
+	"dir-cur-src" : "/home/eralife/Projects/Simple_Video_Player",
+	"dir-top-bld" : "/home/eralife/Projects/Simple_Video_Player/cmake-build-debug",
+	"dir-top-src" : "/home/eralife/Projects/Simple_Video_Player",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/eralife/Projects/Simple_Video_Player/include",
+		"WebBrowser_autogen/include",
+		"/usr/include/qt6/QtCore",
+		"/usr/include/qt6",
+		"/usr/lib64/qt6/mkspecs/linux-g++",
+		"/usr/include/qt6/QtGui",
+		"/usr/include/qt6/QtWidgets",
+		"/usr/include/qt6/QtMultimedia",
+		"/usr/include/qt6/QtNetwork",
+		"/usr/include/qt6/QtMultimediaWidgets"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/eralife/Projects/Simple_Video_Player/cmake-build-debug/CMakeFiles/WebBrowser.dir"
+}
