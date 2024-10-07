@@ -55,7 +55,6 @@ The project is developed using:
 
 ## Screenshots
 ------------------------------------------------------------------------------------------------------------------
-![Screenshot][https://github.com/EralifeIX/Simple-Qt-video-audio-player/blob/main/screenshots/image1.png]
-
-![Screenshot][https://github.com/EralifeIX/Simple-Qt-video-audio-player/blob/main/screenshots/image2.png]
+![Screenshot](https://github.com/EralifeIX/Simple-Qt-video-audio-player/blob/main/screenshots/image1.png)
+![Screenshot](https://github.com/EralifeIX/Simple-Qt-video-audio-player/blob/main/screenshots/image2.png)
 
